@@ -15,4 +15,4 @@ TODO:
 * 3D Chess (C, GLES, Wayland)
 * 3D VChess (C, Vulkan, Wayland)
 
-More as time passes on...
+More as time passes on... (Dynamically switchable vulkan/GL backends, and live preview rendering models)
