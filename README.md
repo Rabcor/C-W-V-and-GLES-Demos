@@ -4,15 +4,15 @@ This is my personal dump for programs written in C, Vulkan and/or OpenGL ES with
 These demos will range from simple spinning triangles to basic GUI applications and games.
 
 TODO:
-Spinning Triangle (C, GLES, Wayland)
-Spinning Gears (C, GLES, Wayland)
-VSpinning Triangle (C, Vulkan, Wayland)
-VSpinning Gears (C, Vulkan, Wayland)
-Calculator (C, GLES, Wayland)
-VCalculator (C, Vulkan, Wayland)
-2D Chess (C, GLES, Wayland)
-2D VChess (C, Vulkan, Wayland)
-3D Chess (C, GLES, Wayland)
-3D VChess (C, Vulkan, Wayland)
+* Spinning Triangle (C, GLES, Wayland)
+* Spinning Gears (C, GLES, Wayland)
+* VSpinning Triangle (C, Vulkan, Wayland)
+* VSpinning Gears (C, Vulkan, Wayland)
+* Calculator (C, GLES, Wayland)
+* VCalculator (C, Vulkan, Wayland)
+* 2D Chess (C, GLES, Wayland)
+* 2D VChess (C, Vulkan, Wayland)
+* 3D Chess (C, GLES, Wayland)
+* 3D VChess (C, Vulkan, Wayland)
 
 More as time passes on...
