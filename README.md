@@ -1,4 +1,4 @@
-# C-W-V-and-GLES-Demos
+# C, Wayland, Vulkan and GLES Demos
 This is my personal dump for programs written in C, Vulkan and/or OpenGL ES with Wayland compatibility (will not use GLX, may or may not add Windows support to some of these later on)
 
 These demos will range from simple spinning triangles to basic GUI applications and games.
